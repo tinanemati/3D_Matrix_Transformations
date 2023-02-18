@@ -3,9 +3,11 @@ An  app that will allow the user to implement many of the transformation matrice
 
 ### Application Showcase
 
-[Video Showcase](https://youtu.be/mf4wD5qIUl0) 
+[Video Showcase]() 
 
-![preview img](/)
+![preview img](/preview-1.png)
+
+![preview img](/preview-2.png)
 
 ## This project fulfills the following requirements:
 * Successfully render a wireframe box.
