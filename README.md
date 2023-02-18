@@ -5,9 +5,9 @@ An  app that will allow the user to implement many of the transformation matrice
 
 [Video Showcase]() 
 
-![preview img](/preview-1.png)
-
 ![preview img](/preview-2.png)
+
+![preview img](/preview-1.png)
 
 ## This project fulfills the following requirements:
 * Successfully render a wireframe box.
