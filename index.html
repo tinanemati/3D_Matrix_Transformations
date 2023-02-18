@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 3</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="app">
+        <div id="header-container">
+            <h1>Assignment 3</h1>
+            <h2>3D Matrix Transformations | <a
+                    href="https://canvas.ucdavis.edu/courses/719519/assignments/951265" target="_blank">Instructions</a></h2>
+        </div>
+        <div class="settings-container">
+            <div class="setting">
+                <h3>Animation</h3>
+                <div class="setting-item-container">
+                    <div id="animationTranslate" class="setting-item inactive">[A] Translate</div>
+                    <div id="animationRotate" class="setting-item inactive">[S] Rotate</div>
+                    <div id="animationScale" class="setting-item inactive">[D] Scale</div>
+                    <div id="animationOff" class="setting-item inactive">[X] Off</div>
+                </div>
+            </div>
+            <div class="setting">
+                <h3>Projection</h3>
+                <div class="setting-item-container">
+                    <div id="perspectiveProjection" class="setting-item inactive">[P] Perspective</div>
+                    <div id="orthographicProjection" class="setting-item inactive">[O] Orthographic</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="canvas-container">
+            <canvas id="canvas"></canvas>
+        </div>
+    </div>
+    <noscript>You need to enable JavaScript to view the full site.</noscript>
+    <script type="module" src="js/main.js"></script>
+</body>
+
+</html>
