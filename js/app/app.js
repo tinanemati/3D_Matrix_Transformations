@@ -5,7 +5,7 @@ import AppState from "./appstate.js"
 import Shader from "../utils/shader.js"
 import { hex2rgb } from "../utils/utils.js"
 
-import { WebGlApp } from "../../assignment3.js"
+import { WebGlApp } from "../../transformations.js"
 
 class App
 {
