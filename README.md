@@ -3,7 +3,7 @@ An  app that will allow the user to implement many of the transformation matrice
 
 ### Application Showcase
 
-[Video Showcase]() 
+[Video Showcase](https://youtu.be/RTvsugrxq1M) 
 
 ![preview img](/preview-2.png)
 
